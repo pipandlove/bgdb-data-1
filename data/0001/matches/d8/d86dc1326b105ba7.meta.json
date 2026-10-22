@@ -1,0 +1,79 @@
+{
+  "schema": "1.0",
+  "id": "0001/d86dc1326b105ba7",
+  "contentHash": "d86dc1326b105ba75ff687298eb2a15cb07dac19d4ae779faa6953a1eb93a8e4",
+  "canonicalVersion": 1,
+  "sides": [
+    {
+      "name": "Masayuki Mochizuki"
+    },
+    {
+      "name": "Jason Pack"
+    }
+  ],
+  "matchLength": 11,
+  "rules": {
+    "crawford": true,
+    "jacoby": false,
+    "beaver": false,
+    "cubeLimit": 64
+  },
+  "date": "2026-10-19",
+  "time": null,
+  "event": "Monte Carlo Open 2015",
+  "round": null,
+  "result": {
+    "winner": 0,
+    "score": [
+      11,
+      2
+    ],
+    "finished": true
+  },
+  "games": [
+    {
+      "points": 8,
+      "kind": "single",
+      "how": "resign",
+      "cube": 4
+    },
+    {
+      "points": 1,
+      "kind": "single",
+      "how": "drop",
+      "cube": 1
+    },
+    {
+      "points": 2,
+      "kind": "single",
+      "how": "resign",
+      "cube": 2
+    },
+    {
+      "points": 2,
+      "kind": "single",
+      "how": "resign",
+      "cube": 2
+    }
+  ],
+  "tags": [],
+  "remarks": [],
+  "illegalPlays": [],
+  "links": [],
+  "attachments": [],
+  "provenance": {
+    "originalFormat": "mat",
+    "dialect": "generic",
+    "site": "HedgeHog",
+    "origin": "otb",
+    "originalHash": "071f01b1ba829f02dfcda136fb64dd90f725d6d198fa23bdc26f05f1a6755d9f",
+    "importer": {
+      "name": "bgdb",
+      "version": "0.3.0"
+    },
+    "contributor": "sambot1981",
+    "submittedAt": "2026-10-22",
+    "license": "CC0-1.0"
+  },
+  "warnings": []
+}
