@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
-    uses: pipandlove/bgdb/.github/workflows/data-pages.yml@v14
+    uses: pipandlove/bgdb/.github/workflows/data-pages.yml@v15
     with:
       tools-repository: pipandlove/bgdb
       tools-ref: v12
