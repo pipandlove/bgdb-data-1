@@ -11,5 +11,5 @@ jobs:
     uses: pipandlove/bgdb/.github/workflows/data-validate.yml@v15
     with:
       tools-repository: pipandlove/bgdb
-      tools-ref: v12
+      tools-ref: v15
     secrets: inherit
