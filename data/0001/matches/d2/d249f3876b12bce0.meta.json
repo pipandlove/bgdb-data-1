@@ -1,0 +1,80 @@
+{
+  "schema": "1.0",
+  "id": "0001/d249f3876b12bce0",
+  "contentHash": "d249f3876b12bce0573cfaf8ae4ae0a83c038ebd710fb5e358fc575e2b259cfe",
+  "canonicalVersion": 1,
+  "sides": [
+    {
+      "name": "Masayuki Mochizuki"
+    },
+    {
+      "name": "Jason Pack"
+    }
+  ],
+  "matchLength": 9,
+  "rules": {
+    "crawford": true,
+    "jacoby": false,
+    "beaver": false,
+    "cubeLimit": 64
+  },
+  "date": "2022-07-22",
+  "time": null,
+  "event": null,
+  "round": null,
+  "result": {
+    "winner": 0,
+    "score": [
+      9,
+      0
+    ],
+    "finished": true
+  },
+  "games": [
+    {
+      "points": 2,
+      "kind": "single",
+      "how": "resign",
+      "cube": 2
+    },
+    {
+      "points": 4,
+      "kind": "single",
+      "how": "drop",
+      "cube": 4
+    },
+    {
+      "points": 3,
+      "kind": "single",
+      "how": "resign",
+      "cube": 8
+    }
+  ],
+  "tags": [],
+  "remarks": [],
+  "illegalPlays": [],
+  "links": [
+    {
+      "type": "video",
+      "provider": "youtube",
+      "id": "pcTiOMolFA0",
+      "url": "https://www.youtube.com/watch?v=pcTiOMolFA0"
+    }
+  ],
+  "attachments": [],
+  "provenance": {
+    "originalFormat": "mat",
+    "dialect": "generic",
+    "site": "HedgeHog",
+    "origin": "otb",
+    "originalHash": "a3cf082ff598d30d3c2f00de62bd56d54d7147f26cdade0b5d44addadf1c27d7",
+    "importer": {
+      "name": "bgdb",
+      "version": "0.3.0"
+    },
+    "contributor": "sambot1981",
+    "submittedAt": "2026-10-27",
+    "license": "CC0-1.0"
+  },
+  "warnings": []
+}
