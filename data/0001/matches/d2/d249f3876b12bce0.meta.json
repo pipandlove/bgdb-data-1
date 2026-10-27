@@ -1,0 +1,81 @@
+{
+  "schema": "1.0",
+  "id": "0001/d249f3876b12bce0",
+  "contentHash": "d249f3876b12bce0573cfaf8ae4ae0a83c038ebd710fb5e358fc575e2b259cfe",
+  "canonicalVersion": 1,
+  "sides": [
+    {
+      "name": "glad-cougar-610c"
+    },
+    {
+      "name": "snowy-donkey-cc21"
+    }
+  ],
+  "matchLength": 9,
+  "rules": {
+    "crawford": true,
+    "jacoby": false,
+    "beaver": false,
+    "cubeLimit": 64
+  },
+  "date": "2022-07-22",
+  "time": null,
+  "event": null,
+  "round": null,
+  "result": {
+    "winner": 0,
+    "score": [
+      9,
+      0
+    ],
+    "finished": true
+  },
+  "games": [
+    {
+      "points": 2,
+      "kind": "single",
+      "how": "resign",
+      "cube": 2
+    },
+    {
+      "points": 4,
+      "kind": "single",
+      "how": "drop",
+      "cube": 4
+    },
+    {
+      "points": 3,
+      "kind": "single",
+      "how": "resign",
+      "cube": 8
+    }
+  ],
+  "tags": [
+    "first-to-7"
+  ],
+  "remarks": [],
+  "illegalPlays": [],
+  "links": [
+    {
+      "type": "video",
+      "provider": "youtube",
+      "id": "pcTiOMolFA0",
+      "url": "https://www.youtube.com/watch?v=pcTiOMolFA0"
+    }
+  ],
+  "attachments": [],
+  "provenance": {
+    "originalFormat": "mat",
+    "dialect": "bgdb",
+    "site": "bgdb",
+    "originalHash": "a1791b80044f8d46efaa0f1df0ce2e097dc8a66302d31085ddfe568a0b5615fe",
+    "importer": {
+      "name": "bgdb",
+      "version": "0.3.0"
+    },
+    "contributor": "sambot1981",
+    "submittedAt": "2026-10-27",
+    "license": "CC0-1.0"
+  },
+  "warnings": []
+}
